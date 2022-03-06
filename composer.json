@@ -1,5 +1,5 @@
 {
-    "name": "adnanHussainTurki/laravel-cross-database-subqueries",
+    "name": "adnanhussainturki/laravel-cross-database-subqueries",
     "description": "Eloquent cross database compatibility in subqueries",
     "type": "library",
     "require": {
